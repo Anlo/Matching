@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleMatching", "ConsoleMatching\ConsoleMatching.csproj", "{90E21785-D37E-4C59-AD1D-4C3CA1D76F97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{56A8B9CA-C35C-4BA7-AFDE-5E076DC82177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90E21785-D37E-4C59-AD1D-4C3CA1D76F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E21785-D37E-4C59-AD1D-4C3CA1D76F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E21785-D37E-4C59-AD1D-4C3CA1D76F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E21785-D37E-4C59-AD1D-4C3CA1D76F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A8B9CA-C35C-4BA7-AFDE-5E076DC82177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A8B9CA-C35C-4BA7-AFDE-5E076DC82177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A8B9CA-C35C-4BA7-AFDE-5E076DC82177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A8B9CA-C35C-4BA7-AFDE-5E076DC82177}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D5D704E-9A1C-4773-8C7F-43AE7593880B}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://anlo.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ConsoleMatching\\ConsoleMatching.csproj
+		SccProjectName1 = ConsoleMatching
+		SccLocalPath1 = ConsoleMatching
+		SccProjectUniqueName2 = UnitTestProject\\UnitTestProject.csproj
+		SccProjectName2 = UnitTestProject
+		SccLocalPath2 = UnitTestProject
+	EndGlobalSection
+EndGlobal
